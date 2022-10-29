@@ -6,12 +6,39 @@
     align-items: center;
 }
 .contact-container h1{
-    
     width: 754px;
     height: 218px;
     font-weight: 700;
     font-size: 90px;
     line-height: 109px;
     text-align: start;
-    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: -400px;
+}
+.contact-details h4{ 
+    width: 150px;
+    height: 46px;
+    font-weight: 700;
+    font-size: 38px; 
+    color: #28F0FD;
+    margin-top: 0px;
+}
+.contact-details p{
+    margin-top: -30px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: start;
+    margin-bottom: 50px;
+}
+.contact-details a{
+    color: #28F0FD;
+    text-decoration: none;
+}
+.contact-media{
+    color: #28F0FD;
+}
+.contact-media p:hover{
+    margin-left: 30px;
+    transition: 0.5s;
 }
