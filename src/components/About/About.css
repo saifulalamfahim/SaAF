@@ -1,4 +1,37 @@
 .about-container{
     background: black;
     color: white;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about-container h1{
+    height: 59px;
+    font-family: '?????';
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 38px;
+    padding-top: 51px;
+}
+.About-details{
+    font-family: 'ABeeZee';
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.About-details p{
+    padding-bottom: 20px;
+}
+.highlight-text{
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px; 
+}
+.hudai{
+    color: #28F0FD;
 }

@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&display=swap');
 
+.header-section{
+    margin-bottom: 70px;
+}
 .social-media{
     display: flex;
     justify-content: center;
