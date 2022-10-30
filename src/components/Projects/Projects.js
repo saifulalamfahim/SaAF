@@ -1,11 +1,26 @@
 import React from 'react';
+import './Projects.css';
+import MidNavber from '../MidNavber/MidNavber';
+import { Route, Routes } from 'react-router-dom';
+import WebDevelopment from '../WebDevelopment/WebDevelopment';
+import GraphicDesign from '../GraphicDesign/GraphicDesign';
+// import WebDevelopment from '../WebDevelopment/WebDevelopment';
+// import GraphicDesign from '../GraphicDesign/GraphicDesign';
 
 const Projects = () => {
     return (
-        <div>
-            <h1>Tis Is Project</h1>
+        <div className='projects-container'>
+            <h1>My Works</h1>
+            <MidNavber></MidNavber>
+            <Routes>
+                <Route path='/' element={<WebDevelopment></WebDevelopment>}></Route>
+                <Route path='/webDevelopment' element={<WebDevelopment></WebDevelopment>}></Route>
+                <Route path='graphicDesign' element={<GraphicDesign></GraphicDesign>}></Route>
+            </Routes>
+            {/* <WebDevelopment></WebDevelopment>
+            <GraphicDesign></GraphicDesign> */}
         </div>
     );
 };
 
-export default Projects;
+export default Projects;                                                         

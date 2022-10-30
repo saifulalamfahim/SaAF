@@ -1,0 +1,12 @@
+.projects-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.projects-container h1{
+    font-family: '?????';
+    font-weight: 400;
+    font-size: 35px;
+}

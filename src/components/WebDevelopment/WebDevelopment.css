@@ -1,0 +1,6 @@
+.webDevProjects-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 45px;
+    margin-bottom: 40px;
+}
