@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 // import WebDevDetails from '../WebDevDetails/WebDevDetails';
 import './WebDevProject.css';
 
-const WebDevProject = (props) => {
+const  WebDevProject = (props) => {
     const details = props.project;
     const {name, img} = details;
    

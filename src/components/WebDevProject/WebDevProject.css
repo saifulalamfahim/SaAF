@@ -41,3 +41,21 @@
         opacity: 0.9;
         transition: 0.9s;
 }
+
+@media screen and (max-width: 500px) {
+    .webDev-container{
+    }
+    .webDev-container img{
+        width: 426px;
+        height: 218px;
+    }
+    .webDev-container .img{
+        width: 426px;
+        height: 218px;
+    }
+    .hoverButton{
+        width: 426px;
+        height: 218px;
+        margin-top: -222px;  
+    }
+}
