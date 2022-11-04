@@ -4,6 +4,7 @@ import MidNavber from '../MidNavber/MidNavber';
 import { Route, Routes } from 'react-router-dom';
 import WebDevelopment from '../WebDevelopment/WebDevelopment';
 import GraphicDesign from '../GraphicDesign/GraphicDesign';
+import WebDevDetails from '../WebDevDetails/WebDevDetails';
 // import WebDevelopment from '../WebDevelopment/WebDevelopment';
 // import GraphicDesign from '../GraphicDesign/GraphicDesign';
 
@@ -16,6 +17,7 @@ const Projects = () => {
                 <Route path='/' element={<WebDevelopment></WebDevelopment>}></Route>
                 <Route path='/webDevelopment' element={<WebDevelopment></WebDevelopment>}></Route>
                 <Route path='graphicDesign' element={<GraphicDesign></GraphicDesign>}></Route>
+                <Route path='/webDevDetails' element={<WebDevDetails></WebDevDetails>}></Route>
             </Routes>
             {/* <WebDevelopment></WebDevelopment>
             <GraphicDesign></GraphicDesign> */}
