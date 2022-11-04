@@ -35,3 +35,15 @@
 .hudai{
     color: #28F0FD;
 }
+
+@media screen and (max-width: 500px) {
+    .about-container h1{
+        font-size: 28px;
+        padding-top: 20px;
+    }
+    .About-details{
+        margin: -20px 20px;
+        font-size: 15px;
+        line-height: 21px;
+    }  
+}

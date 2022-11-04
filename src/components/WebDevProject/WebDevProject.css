@@ -7,21 +7,10 @@
     height: 268px;
     filter: drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.5));
     object-fit: cover;
-   
-   
-    /* z-index: 1; */
-   
 }
 .webDev-container .img{
     width: 496px;
-    height: 268px;
-    
-}
-.webDev-container img:hover{
-    /* opacity: 0.5;
-    transition: 0.5s;
-    z-index: -1; */
-   
+    height: 268px;  
 }
 .hoverButton{
     display: flex;
@@ -32,17 +21,12 @@
     height: 268px;
     box-sizing: border-box;
     color: white;
-    /* position: absolute; */
     background-color: black;
-    /* bottom: -998px; */
-    /* top: 520px; */
     margin-top: -272px;  
 }
 .hoverButton button{
-    
     width: 153px;
-    height: 46px;
-    
+    height: 46px; 
     background: #FFFFFF;
     border-radius: 12px;
     cursor: pointer;
@@ -53,13 +37,7 @@
     border: 1px solid white;
     transition: 0.5s;
 }
-/* .webDev-container .img:hover{
-    cursor: pointer;
-} */
 .webDev-container .img:hover .hoverButton{
-    /* height: 500px; */
-    /* margin-top: -270px; */
-       
         opacity: 0.9;
         transition: 0.9s;
 }
