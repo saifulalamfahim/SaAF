@@ -8,7 +8,7 @@ const Header = () => {
             <div className='social-media'>
             <a href=""><Icon className='icon' icon="bi:linkedin" /></a>
             <a href=""> <Icon className='icon' icon="brandico:facebook-rect" /></a>
-           <a href=""> <Icon className='icon1' icon="fa-brands:github-square" /></a>
+           <a href="https://github.com/saifulalamfahim"> <Icon className='icon1' icon="fa-brands:github-square" /></a>
            <a href=""><Icon className='icon1' icon="fa-brands:instagram-square" /></a>
             </div>
             <div className='saaf'>
