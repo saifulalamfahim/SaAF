@@ -36,6 +36,37 @@
     color: #28F0FD;
 }
 
+@media screen and (max-width: 950px) {
+    .about-container h1{
+        font-size: 28px;
+        padding-top: 20px;
+    }
+    .About-details{
+        margin: -20px 20px;
+        font-size: 15px;
+        line-height: 21px;
+    }  
+}
+
+@media screen and (max-width: 885px) {
+    .About-details{
+        margin: -20px 20px;
+        font-size: 12px;
+        line-height: 21px;
+    }  
+}
+@media screen and (max-width: 805px) {
+    .About-details{
+        margin: -20px 20px;
+        font-size: 12px;
+        line-height: 21px;
+    }  
+    .highlight-text{
+        font-size: 18px;
+        line-height: 33px; 
+    }
+}
+
 @media screen and (max-width: 500px) {
     .about-container h1{
         font-size: 28px;

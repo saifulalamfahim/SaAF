@@ -66,6 +66,13 @@ svg{
     transition: 0.5s;
 }
 
+@media screen and (max-width: 1115px) {
+    body{
+        width: auto;
+        overflow-x: hidden;
+      }   
+}
+
 @media screen and (max-width: 500px) {  
   body{
     width: auto;
