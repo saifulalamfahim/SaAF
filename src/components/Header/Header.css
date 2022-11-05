@@ -37,13 +37,11 @@ svg{
 }
 .saaf p{
     margin-left: 130px;
-    /* font-family: '?????'; */
     font-weight: 400;
     font-size: 38px;
     line-height: 38px;
 }
 .saaf-details p{
-    /* font-family: '?????'; */
     font-weight: 400;
     font-size: 35px;
     line-height: 35px;
@@ -72,12 +70,35 @@ svg{
         overflow-x: hidden;
       }   
 }
+@media screen and (max-width: 800px) {  
+    body{
+      width: auto;
+      overflow-x: hidden;
+    }    
+  .saaf h1{
+      font-size: 106px;
+  }
+  .saaf p{
+      margin-left: 0px;
+      margin-top: -35px;
+      font-size: 30px;
+  }
+  .saaf-details p{
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 15px;
+      margin-top: -10px;
+  }
+  .header-section button{
+      margin-top: 15px;
+  }   
+    }
 
 @media screen and (max-width: 500px) {  
   body{
     width: auto;
     overflow-x: hidden;
-  }    
+  }  
 .saaf h1{
     font-size: 106px;
 }
@@ -87,12 +108,21 @@ svg{
     font-size: 30px;
 }
 .saaf-details p{
+    width: 400px;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 15px;
     margin-top: -10px;
+    margin: auto;
 }
 .header-section button{
-    margin-top: 15px;
+    margin-top: 30px;
 }   
   }
+
+  
+@media screen and (max-width: 420px) {  
+  .saaf-details p{
+      width: 325px;
+  }  
+}
