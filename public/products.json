@@ -40,7 +40,7 @@
       "category": "Website",
       "name": "Your Rider",
       "seller": "SaAF",
-      "img": "./images/Slide3.png",
+      "img": "./images/Slide4.PNG",
       "github": "https://github.com/saifulalamfahim/your-rider",
       "live_site": "https://frosty-dubinsky-eb2589.netlify.app/"
     },
@@ -49,7 +49,7 @@
       "category": "Website",
       "name": "TreeHouse.com",
       "seller": "SaAF",
-      "img": "./images/Slide4.PNG",
+      "img": "./images/Slide3.png",
       "github": "https://github.com/saifulalamfahim/TreeHouse.com",
       "live_site": "https://spontaneous-twilight-09a027.netlify.app/"
     }
