@@ -4,7 +4,7 @@
       "category": "Website",
       "name": "Agency Portfolio",
       "seller": "SaAF",
-      "img": "./images/Slide2.PNG",
+      "img": "./images/Slide2.png",
       "github": "https://github.com/saifulalamfahim/Agency-Portfolio-black",
       "live_site": "https://admiring-jepsen-6b51c4.netlify.app/"
     },
@@ -13,7 +13,7 @@
       "category": "Website",
       "name": "Personal Protfolio",
       "seller": "SaAF",
-      "img": "./images/Slide5.PNG",
+      "img": "./images/Slide5.png",
       "github": "https://github.com/saifulalamfahim/Personal-Protfolio",
       "live_site": "https://reverent-cori-574322.netlify.app/"
     },
@@ -22,7 +22,7 @@
       "category": "Website",
       "name": "CloPro.com",
       "seller": "SaAF",
-      "img": "./images/Slide6.PNG",
+      "img": "./images/Slide6.png",
       "github": "https://github.com/saifulalamfahim/CloPro.com",
       "live_site": "https://deft-cocada-16bd65.netlify.app/"
     },
@@ -31,7 +31,7 @@
       "category": "Website",
       "name": "MysteryBox.com",
       "seller": "SaAF",
-      "img": "./images/Slide1.PNG",
+      "img": "./images/Slide1.png",
       "github": "https://github.com/saifulalamfahim/MysteryBox.com",
       "live_site": "https://taupe-naiad-30b1a3.netlify.app/"
     },
@@ -49,7 +49,7 @@
       "category": "Website",
       "name": "TreeHouse.com",
       "seller": "SaAF",
-      "img": "./images/Slide3.PNG",
+      "img": "./images/Slide3.png",
       "github": "https://github.com/saifulalamfahim/TreeHouse.com",
       "live_site": "https://spontaneous-twilight-09a027.netlify.app/"
     }
