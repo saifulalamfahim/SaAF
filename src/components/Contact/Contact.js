@@ -12,10 +12,10 @@ const Contact = () => {
                 Hiar me, And take opportunities to work with world most handsome man.</p>
                 <p>Feel free to reach out through any platforms bellow: </p>
                 <div className='contact-media'>
-                    <a href=""><p>safahim84@gmail.com</p></a>
-                    <a href=""><p>Facebook</p></a>
-                   <a href=""> <p>Instagram</p></a>
-                    <a href=""><p>Linkedin</p></a>
+                    <a href="https://mail.google.com/"><p>safahim84@gmail.com</p></a>
+                    <a href="https://www.facebook.com/fahim.srlsy"><p>Facebook</p></a>
+                   <a href="https://www.instagram.com/fahim_vha"> <p>Instagram</p></a>
+                    <a href="https://www.linkedin.com/in/saafahim"><p>Linkedin</p></a>
                 </div>
             </div>
         </div>

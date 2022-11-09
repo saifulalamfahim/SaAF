@@ -5,7 +5,7 @@ import './WebDevProject.css';
 
 const  WebDevProject = (props) => {
     const details = props.project;
-    const {name, img} = details;
+    const {name, img, github, live_site} = details;
    
     // const [webDetails, setWevDetails] = useState([]);
 
@@ -27,7 +27,11 @@ const  WebDevProject = (props) => {
                 <div className='hoverButton'>
                     <h4>{name}</h4>
                     {/* <Link to="/webDevDetails"><button onClick={handlerAddButton}>Explore</button></Link> */}
-                    <Link to=""><button>Explore</button></Link>
+                    {/* <Link to="https://www.facebook.com/fahim.srlsy"><button>Explore</button></Link> */}
+                    <div className='explore-button'>
+                            <a href={github}><button>Github</button></a>
+                            <a href={live_site}><button>Live</button></a>
+                    </div>
                 </div>
            </div>
         </div>

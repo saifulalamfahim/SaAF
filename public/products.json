@@ -4,42 +4,54 @@
       "category": "Website",
       "name": "Agency Portfolio",
       "seller": "SaAF",
-      "img": "./images/Slide2.PNG"
+      "img": "./images/Slide2.PNG",
+      "github": "https://github.com/saifulalamfahim/Agency-Portfolio-black",
+      "live_site": "https://admiring-jepsen-6b51c4.netlify.app/"
     },
     {
       "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
       "category": "Website",
       "name": "Personal Protfolio",
       "seller": "SaAF",
-      "img": "./images/Slide5.PNG"
+      "img": "./images/Slide5.PNG",
+      "github": "https://github.com/saifulalamfahim/Personal-Protfolio",
+      "live_site": "https://reverent-cori-574322.netlify.app/"
     },
     {
       "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
       "category": "Website",
       "name": "CloPro.com",
       "seller": "SaAF",
-      "img": "./images/Slide6.PNG"
+      "img": "./images/Slide6.PNG",
+      "github": "https://github.com/saifulalamfahim/CloPro.com",
+      "live_site": "https://deft-cocada-16bd65.netlify.app/"
     },
     {
       "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
       "category": "Website",
       "name": "MysteryBox.com",
       "seller": "SaAF",
-      "img": "./images/Slide1.PNG"
+      "img": "./images/Slide1.PNG",
+      "github": "https://github.com/saifulalamfahim/MysteryBox.com",
+      "live_site": "https://taupe-naiad-30b1a3.netlify.app/"
     },
     {
       "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
       "category": "Website",
       "name": "Your Rider",
       "seller": "SaAF",
-      "img": "./images/Slide4.PNG"
+      "img": "./images/Slide4.PNG",
+      "github": "https://github.com/saifulalamfahim/your-rider",
+      "live_site": "https://frosty-dubinsky-eb2589.netlify.app/"
     },
     {
       "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
       "category": "Website",
       "name": "TreeHouse.com",
       "seller": "SaAF",
-      "img": "./images/Slide3.PNG"
+      "img": "./images/Slide3.PNG",
+      "github": "https://github.com/saifulalamfahim/TreeHouse.com",
+      "live_site": "https://spontaneous-twilight-09a027.netlify.app/"
     }
   ]
   
