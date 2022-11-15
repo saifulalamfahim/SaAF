@@ -29,8 +29,8 @@ const  WebDevProject = (props) => {
                     {/* <Link to="/webDevDetails"><button onClick={handlerAddButton}>Explore</button></Link> */}
                     {/* <Link to="https://www.facebook.com/fahim.srlsy"><button>Explore</button></Link> */}
                     <div className='explore-button'>
-                            <a href={github}><button>Github</button></a>
-                            <a href={live_site}><button>Live</button></a>
+                            <a href={github} target="_blank" rel="noreferrer"><button>Github</button></a>
+                            <a href={live_site} target="_blank" rel="noreferrer"><button>Live</button></a>
                     </div>
                 </div>
            </div>
