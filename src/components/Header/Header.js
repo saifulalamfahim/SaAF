@@ -16,9 +16,10 @@ const Header = () => {
                 <p>is here for you</p>
             </div>
             <div className='saaf-details'>
-                <p>Hey! I’m Saiful Alam, people call me Fahim. I’m a<br /> self-made “ <span>Web developer & Designer</span> ”</p>
+                <p>Hey! I’m Saiful Alam, you can call me Fahim. I’m a<br /> self-made “ <span>Web developer & Designer</span> ”</p>
             </div>
             <a href="https://drive.google.com/file/d/1VIggTPyHy-b6M_-1qhDq_tVyulsuKnye/view" target="_blank"  rel="noreferrer"><button>My Resume</button></a>
+            <p></p>
         </div>
     );
 };
