@@ -1,4 +1,13 @@
 [
+  {
+    "id": "6e5593d3-557b-43jhg-8dab-a2536aedfb0",
+    "category": "Website",
+    "name": "E-Dokan",
+    "seller": "SaAF",
+    "img": "./images/Slide8.PNG",
+    "github": "https://github.com/saifulalamfahim/E-commerce-site-for-EDOKAN",
+    "live_site": "https://edokan-28de3.firebaseapp.com/"
+  },
     {
       "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
       "category": "Website",
@@ -52,6 +61,24 @@
       "img": "./images/Slide3.png",
       "github": "https://github.com/saifulalamfahim/TreeHouse.com",
       "live_site": "https://spontaneous-twilight-09a027.netlify.app/"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a2536aedfb0",
+      "category": "Website",
+      "name": "Number Guessing Game",
+      "seller": "SaAF",
+      "img": "./images/Slide7.PNG",
+      "github": "https://github.com/saifulalamfahim/Number-Guessing-Game",
+      "live_site": "https://gorgeous-crostata-8cb53f.netlify.app/"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8569-a2536aedfb0",
+      "category": "Website",
+      "name": "MOVDET",
+      "seller": "SaAF",
+      "img": "./images/Slide9.PNG",
+      "github": "https://github.com/saifulalamfahim/nextJs-fullStuck-app",
+      "live_site": "https://movie-details-zeta.vercel.app/"
     }
   ]
   

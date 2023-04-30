@@ -5,9 +5,6 @@ import { Route, Routes } from 'react-router-dom';
 import WebDevelopment from '../WebDevelopment/WebDevelopment';
 import GraphicDesign from '../GraphicDesign/GraphicDesign';
 import WebDevDetails from '../WebDevDetails/WebDevDetails';
-// import WebDevelopment from '../WebDevelopment/WebDevelopment';
-// import GraphicDesign from '../GraphicDesign/GraphicDesign';
-
 const Projects = () => {
     return (
         <div className='projects-container'>
@@ -19,8 +16,6 @@ const Projects = () => {
                 <Route path='graphicDesign' element={<GraphicDesign></GraphicDesign>}></Route>
                 <Route path='/webDevDetails' element={<WebDevDetails></WebDevDetails>}></Route>
             </Routes>
-            {/* <WebDevelopment></WebDevelopment>
-            <GraphicDesign></GraphicDesign> */}
         </div>
     );
 };

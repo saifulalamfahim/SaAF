@@ -14,7 +14,6 @@ const WebDevelopment = () => {
 
     return (
         <div className='webDevProjects-container'>
-            {/* <h1>This is Web development {webDevProjects.length}</h1> */}
             {
                 webDevProjects.map(project => <WebDevProject
                 key={project.id}
