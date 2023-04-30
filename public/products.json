@@ -4,7 +4,7 @@
     "category": "Website",
     "name": "E-Dokan",
     "seller": "SaAF",
-    "img": "./images/Slide8.PNG",
+    "img": "./images/Slide8.png",
     "github": "https://github.com/saifulalamfahim/E-commerce-site-for-EDOKAN",
     "live_site": "https://edokan-28de3.firebaseapp.com/"
   },
@@ -76,7 +76,7 @@
       "category": "Website",
       "name": "MOVDET",
       "seller": "SaAF",
-      "img": "./images/Slide9.PNG",
+      "img": "./images/Slide9.png",
       "github": "https://github.com/saifulalamfahim/nextJs-fullStuck-app",
       "live_site": "https://movie-details-zeta.vercel.app/"
     }
