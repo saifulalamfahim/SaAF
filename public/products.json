@@ -8,6 +8,24 @@
     "github": "https://github.com/saifulalamfahim/E-commerce-site-for-EDOKAN",
     "live_site": "https://edokan-28de3.firebaseapp.com/"
   },
+  {
+    "id": "6e5593d3-557b-43cf-8569-a2536aedfb0",
+    "category": "Website",
+    "name": "MOVDET",
+    "seller": "SaAF",
+    "img": "./images/Slide9.png",
+    "github": "https://github.com/saifulalamfahim/nextJs-fullStuck-app",
+    "live_site": "https://movie-details-zeta.vercel.app/"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8569-asx2fva5ed4b0",
+    "category": "Website",
+    "name": "Quiz-App",
+    "seller": "SaAF",
+    "img": "./images/Slide12.png",
+    "github": "https://github.com/saifulalamfahim/Quiz-App",
+    "live_site": "https://zealous-wozniak-0e7848.netlify.app/"
+  },
     {
       "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
       "category": "Website",
@@ -16,6 +34,24 @@
       "img": "./images/Slide2.png",
       "github": "https://github.com/saifulalamfahim/Agency-Portfolio-black",
       "live_site": "https://admiring-jepsen-6b51c4.netlify.app/"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a2536aedfb0",
+      "category": "Website",
+      "name": "Number Guessing Game",
+      "seller": "SaAF",
+      "img": "./images/Slide7.PNG",
+      "github": "https://github.com/saifulalamfahim/Number-Guessing-Game",
+      "live_site": "https://gorgeous-crostata-8cb53f.netlify.app/"
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "category": "Website",
+      "name": "Your Rider",
+      "seller": "SaAF",
+      "img": "./images/Slide4.PNG",
+      "github": "https://github.com/saifulalamfahim/your-rider",
+      "live_site": "https://frosty-dubinsky-eb2589.netlify.app/"
     },
     {
       "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
@@ -45,15 +81,6 @@
       "live_site": "https://taupe-naiad-30b1a3.netlify.app/"
     },
     {
-      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
-      "category": "Website",
-      "name": "Your Rider",
-      "seller": "SaAF",
-      "img": "./images/Slide4.PNG",
-      "github": "https://github.com/saifulalamfahim/your-rider",
-      "live_site": "https://frosty-dubinsky-eb2589.netlify.app/"
-    },
-    {
       "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
       "category": "Website",
       "name": "TreeHouse.com",
@@ -62,23 +89,25 @@
       "github": "https://github.com/saifulalamfahim/TreeHouse.com",
       "live_site": "https://spontaneous-twilight-09a027.netlify.app/"
     },
+   
     {
-      "id": "6e5593d3-557b-43cf-8dab-a2536aedfb0",
+      "id": "6e5593d3-557b-43cf-8569-asx2fva5ed4b0",
       "category": "Website",
-      "name": "Number Guessing Game",
+      "name": "Kenakata.com",
       "seller": "SaAF",
-      "img": "./images/Slide7.PNG",
-      "github": "https://github.com/saifulalamfahim/Number-Guessing-Game",
-      "live_site": "https://gorgeous-crostata-8cb53f.netlify.app/"
+      "img": "./images/Slide10.png",
+      "github": "https://github.com/saifulalamfahim/Kenakata",
+      "live_site": "https://blissful-thompson-3ea297.netlify.app/"
     },
     {
-      "id": "6e5593d3-557b-43cf-8569-a2536aedfb0",
+      "id": "6e5593d3-557b-43cf-8569-asx2fva5ed4b0",
       "category": "Website",
-      "name": "MOVDET",
+      "name": "CALCULATOR",
       "seller": "SaAF",
-      "img": "./images/Slide9.png",
-      "github": "https://github.com/saifulalamfahim/nextJs-fullStuck-app",
-      "live_site": "https://movie-details-zeta.vercel.app/"
+      "img": "./images/Slide11.png",
+      "github": "https://github.com/saifulalamfahim/Calculator",
+      "live_site": "https://lucid-hopper-b282f6.netlify.app/"
     }
+  
   ]
   
