@@ -5,6 +5,7 @@ import { Route, Routes } from 'react-router-dom';
 import WebDevelopment from '../WebDevelopment/WebDevelopment';
 import GraphicDesign from '../GraphicDesign/GraphicDesign';
 import WebDevDetails from '../WebDevDetails/WebDevDetails';
+// import Contact from "../Contact/Contact"
 const Projects = () => {
     return (
         <div className='projects-container'>
@@ -15,6 +16,7 @@ const Projects = () => {
                 <Route path='/webDevelopment' element={<WebDevelopment></WebDevelopment>}></Route>
                 <Route path='graphicDesign' element={<GraphicDesign></GraphicDesign>}></Route>
                 <Route path='/webDevDetails' element={<WebDevDetails></WebDevDetails>}></Route>
+                {/* <Route path='/contact' element={<Contact></Contact>}></Route> */}
             </Routes>
         </div>
     );

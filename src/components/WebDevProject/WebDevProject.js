@@ -1,4 +1,4 @@
-
+import {Tilt} from 'react-tilt';
 import './WebDevProject.css';
 
 const  WebDevProject = (props) => {
@@ -7,7 +7,8 @@ const  WebDevProject = (props) => {
    
     return (
         <div className='webDev-container'>
-           <div className='img'>
+          <Tilt>
+          <div className='img'>
                 <img src={img} alt="" />
                 <div className='hoverButton'>
                     <h4>{name}</h4>
@@ -17,6 +18,7 @@ const  WebDevProject = (props) => {
                     </div>
                 </div>
            </div>
+          </Tilt>
         </div>
     );
 };

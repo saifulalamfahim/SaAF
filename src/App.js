@@ -5,13 +5,15 @@ import Header from './components/Header/Header';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import Projects from './components/Projects/Projects';
+import Services from './components/Services/Services';
 
 function App() {
   return (
     <div className="App">
      <Header></Header>
+     <Services/>
+     <Projects></Projects>
       <About></About>
-      <Projects></Projects>
       <Contact></Contact>
       <Footer></Footer>
     </div>
