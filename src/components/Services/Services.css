@@ -10,25 +10,6 @@
 .services-container .allCard{
     display: flex;
     flex-direction: row;
-    /* justify-content: space-around; */
-    /* align-items: center; */
-}
-
-.services-container .card{
-    /* position: relative;
-    width: 320px;
-    height: 530px;
-    margin: 30px;
-    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
-    border-radius: 15px;
-    background: rgba(255, 255, 255, 0.1);
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-top: 1px solid rgba(255, 255, 255, 0.5);
-    border-left: 1px solid rgba(255, 255, 255, 0.5);
-    backdrop-filter: blur(5px); */
 }
 
 .services-container .card .content {
@@ -40,19 +21,10 @@
     border-radius: 15px;
     background: rgba(247, 249, 255, 0.021);
     overflow: hidden;
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
-    /* border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-    border-right: 1px solid rgba(255, 255, 255, 0.5); */
-    /* backdrop-filter: blur(5px); */
     padding: 20px;
     text-align: left;
-    /* transform: translateY(100px);
-    opacity: 0;
-    transition: 0.5s; */
 }
 .services-container .card .content h2{
     position: absolute;
@@ -74,7 +46,6 @@
 }
 .services-container .card .content .tech{
     border: none;
-    /* border-right: 1px solid #28F0FD;; */
     margin: 0px;
     margin-right: 2px;
     padding: 0px;
