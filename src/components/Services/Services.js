@@ -34,6 +34,7 @@ const Services = () => {
                         </p>
                 </div>
                 </Tilt>
+                <Tilt>
                 <div className='content'>
                     <h2>03</h2>
                     <h3>UI/UX Design</h3>
@@ -46,9 +47,11 @@ const Services = () => {
                     <span>Canva</span>
                     </p>
                 </div>
+                </Tilt>
             </div>
 
             <div className='card'>
+            <Tilt>
                 <div className='content'>
                     <h2>02</h2>
                     <h3>Website Design</h3>
@@ -66,6 +69,8 @@ const Services = () => {
                         <span>Next.Js</span>
                         </p>
                 </div>
+                </Tilt>
+                <Tilt>
                 <div className='content'>
                     <h2>04</h2>
                     <h3>Presentation Design</h3>
@@ -77,6 +82,7 @@ const Services = () => {
                     <span>Canva</span>
                     </p>
                 </div>
+                </Tilt>
             </div>
            </div>
         </div>

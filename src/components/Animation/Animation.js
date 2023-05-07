@@ -8,7 +8,7 @@ const Animation = () => {
             <div className=''>
                         <div className='animation'>
                         <Marquee>
-                             Contact me today to discuss your needs and get a quote for my services.
+                             Contact me today to discuss your needs and get a quote for my services... 
                         </Marquee>
                         </div>
                 </div>
